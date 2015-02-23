@@ -1,5 +1,5 @@
 # PySize
-Module for file representation. It behaves like an int or float.
+Module for file size representation. It behaves like an int or float.
 
 ## Usage:
 ``` 
