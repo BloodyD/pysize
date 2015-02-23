@@ -9,6 +9,5 @@ size1 = SIZE(100)              # 100 Bytes
 size2 = SIZE(100, SIZE.MB)     # 100 MByte
 
 print size1 + size2            # 100MB 100B
-print size1 * 256              # 25GB
-
+print size2 * 256              # 25GB
 ``` 
